@@ -35,7 +35,16 @@ From there, select the Resource Group (RG) that was previously created, followed
 
 
 Step 2: Create a Virtual Machine
-Set the image and size as shown in the screenshots for the VM (Virtual Machine). Create a unique username and password, and check the box for the licensing agreement. This VM will be for our Domain Controller, which manages the network and security. Followed by clicking "Review + Create" for validation and creation of the VM.
+Select the RG that was created for this tutorial and set the region the same as the RG. Create a unique name for the VM. This part is important, for image select "Windows Server 2022 Datacenter: Azure Edition x64 Gen2" from the dropdown box. The size should be atleast 2vcpus and 8GiB of memory. Create a username and password for Remote Desktop and check the box for the licensing agreement. This VM will be for our Domain Controller, which manages the network and security. Afterward, we'll click "Next:Disks" and then go "Next: Networking". Followed by clicking "Review + Create" for validation and creation of the VM.
 
 ![image](https://github.com/user-attachments/assets/004fe066-7532-47b5-bc06-ddc1b0aed050)
+
+![image](https://github.com/user-attachments/assets/19f3034c-f287-4a2c-901f-cf9de5541ee8
+
+![image](https://github.com/user-attachments/assets/a9a8a750-1a82-4f86-9687-19aa1245e850
+
+
+In the Networking  Tab, ensure that the settings below has the VNet selected that was just created, and that the Subnet is the default option. Afterwards, click "Review + Create" for validation and then click "Create" in the new page.
+
+![image](https://github.com/user-attachments/assets/67455119-9698-4a40-86eb-010de0232088)
 
