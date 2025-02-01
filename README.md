@@ -7,12 +7,16 @@ In this tutorial, we will be working with Active Directory to simulate user mana
 
 # Environments and Technologies Used
 Microsoft Azure
+
 Virtual Machines
+
 Remote Desktop Connection
+
 Windows Powershell
 
 # Operating Systems Used
 Windows Server
+
 Windows 10
 
 # Getting Started
