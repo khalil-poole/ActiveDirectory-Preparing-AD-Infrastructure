@@ -39,9 +39,9 @@ Select the RG that was created for this tutorial and set the region the same as 
 
 ![image](https://github.com/user-attachments/assets/004fe066-7532-47b5-bc06-ddc1b0aed050)
 
-![image](https://github.com/user-attachments/assets/19f3034c-f287-4a2c-901f-cf9de5541ee8
+![image](https://github.com/user-attachments/assets/19f3034c-f287-4a2c-901f-cf9de5541ee8)
 
-![image](https://github.com/user-attachments/assets/a9a8a750-1a82-4f86-9687-19aa1245e850
+![image](https://github.com/user-attachments/assets/a9a8a750-1a82-4f86-9687-19aa1245e850)
 
 
 In the Networking  Tab, ensure that the settings below has the VNet selected that was just created, and that the Subnet is the default option. Afterwards, click "Review + Create" for validation and then click "Create" in the new page.
