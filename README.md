@@ -105,7 +105,7 @@ Once Powershell opens up, type "ping <private ip address>" and press enter. If p
 
 With all that said, this concludes part 1 of Active Directory. Remember to stop the VMs in Azure to avoid any unnecessary costs if you're taking a break.
 
-When you're ready, let's proceed to <a href="https://github.com/khalil-poole/ActiveDirectory-Deployment">Part2</a>.
+When you're ready, let's proceed to <a href="https://github.com/khalil-poole/ActiveDirectory-Deployment">Part 2.</a>
 
 
 
