@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e8da396e-164f-45d2-8c97-7492cf4599a5)
 
 
-# ActiveDirectory-Preperaring-AD-Infrastructure
+# ActiveDirectory-Preparing-AD-Infrastructure
 
 In this tutorial, we will be working with Active Directory (AD for short) to simulate user management on a large scale and Microsoft Azure to setup our Virtual Machines.
 
