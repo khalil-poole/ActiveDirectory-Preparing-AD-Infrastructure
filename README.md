@@ -102,7 +102,13 @@ In the search bar, type "Windows Powershell" and click on the first option that 
 ![image](https://github.com/user-attachments/assets/1c9d0adc-1f92-4c62-8d3b-67bb58829fee)
 
 Once Powershell opens up, type "ping <private ip address>" and press enter. Ping is used to check for conenctivity between two computers. If properly setup, the client VM will have successfully pinged the domain VM. Lastly, type in "ipconfig /all" and if everything is properly setup, you can see the DNS that the domain controller is using.
-![image](https://github.com/user-attachments/assets/10d81c57-d3d2-40e8-86a9-f3fa6a361514)
+
+<img width="829" height="738" alt="image" src="https://github.com/user-attachments/assets/749e9275-0fa7-4f19-96fb-80e3ddf6c879" />
+
+
+***11/9/25 Update*** -- If the DNS Server's IP address do not reflect on dc-1's private IP address, this can be fixed by restarting both VMs.
+
+***Disclaimer*** --- Don't pay attention to the discrepancy of IP Address numbers within the screenshots as there have been some minor changes that I had to do after creating this project.
 
 
 With all that said, this concludes part 1 of Active Directory. Remember to stop the VMs in Azure to avoid any unnecessary costs if you're taking a break.
