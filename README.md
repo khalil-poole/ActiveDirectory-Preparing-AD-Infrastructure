@@ -37,7 +37,9 @@ From there, select the Resource Group (RG) that was previously created, followed
 
 Step 2: Create two Virtual Machines
 
-Select the RG that was created for this tutorial and set the region the same as the RG. Create a unique name for the first VM. This part is important, for image select "Windows Server 2022 Datacenter: Azure Edition x64 Gen2" from the dropdown box. The size should be atleast 2vcpus and 8GiB of memory. Create a username and password for Remote Desktop and check the box for the licensing agreement. This VM will be for our Domain Controller, which manages the network and security. Afterward, we'll click "Next:Disks" and then go "Next: Networking". Followed by clicking "Review + Create" for validation and creation of the VM.
+Select the RG that was created for this tutorial and set the region the same as the RG. Create a unique name for the first VM. This part is important, for image select "Windows Server 2022 Datacenter: Azure Edition Hotpatch x64 Gen2" from the dropdown box. The size should be atleast 2vcpus and 8GiB of memory. Create a username and password for Remote Desktop and check the box for the licensing agreement. This VM will be for our Domain Controller, which manages the network and security. Afterward, we'll click "Next:Disks" and then go "Next: Networking". Followed by clicking "Review + Create" for validation and creation of the VM.
+
+11/9/25 Update* the image is now "Windows Server 2022 Datacenter: Azure Edition Hotpatch x64 Gen2" instead of the non hotpatch version, for some reason I was only able to see the command prompt without the hotpatch version.
 
 ![image](https://github.com/user-attachments/assets/004fe066-7532-47b5-bc06-ddc1b0aed050)
 
