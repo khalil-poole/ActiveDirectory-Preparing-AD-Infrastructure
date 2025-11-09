@@ -101,7 +101,7 @@ In the search bar, type "Windows Powershell" and click on the first option that 
 
 ![image](https://github.com/user-attachments/assets/1c9d0adc-1f92-4c62-8d3b-67bb58829fee)
 
-Once Powershell opens up, type "ping <private ip address>" and press enter. If properly setup, the client VM will have successfully pinged the domain VM. Lastly, type in "ipconfig /all" and if everything is properly setup, you can see the DNS that the domain controller is using.
+Once Powershell opens up, type "ping <private ip address>" and press enter. Ping is used to check for conenctivity between two computers. If properly setup, the client VM will have successfully pinged the domain VM. Lastly, type in "ipconfig /all" and if everything is properly setup, you can see the DNS that the domain controller is using.
 ![image](https://github.com/user-attachments/assets/10d81c57-d3d2-40e8-86a9-f3fa6a361514)
 
 
